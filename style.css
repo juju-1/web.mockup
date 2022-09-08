@@ -1,0 +1,65 @@
+h2 {
+    font-family: Helvetica;
+    font-weight: Bold;
+    color: #3d3d3d;
+    font-size: 24pt;
+    margin-top: 1rem;
+}
+
+h4 {
+    font-family: Helvetica;
+    font-weight: light;
+    color: #3d3d3d;
+    font-size: 24pt;
+}
+
+
+h3 {
+    font-family: Helvetica;
+    font-weight: Bold;
+    color: #3d3d3d;
+    font-size: 28pt;
+    margin-top: 1rem;
+}
+
+h5 {
+    font-family: Helvetica, Neue;
+    font-size: 28pt;
+    font-weight: light;
+    color: #3d3d3d;
+    text-align: right;
+}
+
+.col1 {
+    margin-top: 5px;
+    height: 2px;
+    width: 350px;
+    background-color: #0d4b6e;
+}
+
+
+.col2 {
+    margin-bottom: 20px;
+    height: 6px;
+    width: 350px;
+    background-color: #0d4b6e;
+}
+
+.title {
+    font: Helvetica Neue Light;
+    font-size: 24pt;
+    color: #3d3d3d;
+}
+
+.web {
+    font: Baskerville Italic;
+    font-size: 18pt;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+
+
+footer {
+    background-color: #3d3d3d;
+}
